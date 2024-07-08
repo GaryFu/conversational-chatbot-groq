@@ -152,3 +152,4 @@ websocket-client
 widgetsnbextension
 yarl
 zipp
+pyperclip
